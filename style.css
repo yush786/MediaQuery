@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+}
+h1{
+    color: whitesmoke;
+}
+@media (min-width:640px) {
+    body{
+        background-color: aqua;
+    }
+    h1{
+        color: red;
+    }
+}
